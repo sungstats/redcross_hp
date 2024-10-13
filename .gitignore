@@ -1,3 +1,7 @@
-nbs/output/
+/nbs/detectron2/output/
+/nbs/yolov8/runs
+/nbs/yolov8/dataset
+/nbs/yolov8/data.yaml
+
 *.jpg
 *.png
